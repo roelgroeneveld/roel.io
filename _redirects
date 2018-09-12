@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://fervent-euler-9cc416.netlify.com/* https://roel.io/:splat 301!
