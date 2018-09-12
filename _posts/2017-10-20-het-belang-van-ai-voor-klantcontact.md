@@ -8,13 +8,8 @@ guid: http://roel.io/?p=231
 permalink: /het-belang-van-ai-voor-klantcontact/
 image: /wp-content/uploads/2017/10/cover-boek-day-after-tomorrow-van-belleghem.png
 categories:
-  - Boeken
-tags:
-  - AI
-  - artificial intelligence
-  - klantrelatie
-  - Steven van Belleghem
-format: link
+  - ai
+  - books
 ---
 Op Marketingfacts schreef Arne Keuning onlangs <a href="https://www.marketingfacts.nl/berichten/uitgelezen-customers-the-day-after-tomorrow">een review van Steven van Belleghem's nieuwe boek '<em>Customers the day after tomorrow</em>'</a>.
 <blockquote>Steven van Belleghem schets 6 stappen van de inzet van kunstmatige intelligentie in de klantrelatie. Deze stappen gaan van de curatie van informatie, via automatisering naar complexe contextuele analyse.</blockquote>

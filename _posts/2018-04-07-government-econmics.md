@@ -1,14 +1,12 @@
 ---
 id: 278
+title: Government vs Economics
 date: 2018-04-07T16:41:34+00:00
 author: Roel
 layout: post
 guid: http://roel.micro.blog/2018/04/07/164134.html
-permalink: /278-2/
-linked_list_url:
-  - https://mobile.nytimes.com/2018/03/19/your-money/resistance-is-futile-to-change-habits-try-replacement-instead.html
+permalink: /government-vs-economics/
 categories:
-  - Zomaar
 ---
  [Seth Godin](http://sethgodin.typepad.com/seths_blog/2018/04/exit-voice-and-loyalty.html):
 

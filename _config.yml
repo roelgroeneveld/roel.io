@@ -16,8 +16,8 @@
 title: Roel.io
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Over online ontwikkelingen, fotografie,
-  privacy en meer!
+  Gewoon online. Over online ontwikkelingen, fotografie,
+  front-end, privacy en meer!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://roel.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: roelgroeneveld

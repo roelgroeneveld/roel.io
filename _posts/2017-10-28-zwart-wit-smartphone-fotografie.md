@@ -10,10 +10,7 @@ sharing_disabled:
   - "1"
 image: /wp-content/uploads/2017/10/4cd9008f1e5c4191b2cc3c92530eb96a-1200x1200.jpg
 categories:
-  - Fotografie
-tags:
-  - smartphone
-  - zwart-wit
+  - photography
 format: image
 ---
 Zwart-wit foto’s maken is een kunst. Eerst moet je iets fotowaardigs ‘zien’. Vervolgens moet je ‘door de kleuren heen’ kunnen kijken om in te schatten of het beeld in zwart-wit ook de moeite waard is.

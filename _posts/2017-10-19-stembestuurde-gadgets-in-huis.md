@@ -8,14 +8,7 @@ guid: http://roel.io/?p=223
 permalink: /stembestuurde-gadgets-in-huis/
 image: /wp-content/uploads/2017/10/amazon-echo-slimme-wifi-speaker-1.jpg
 categories:
-  - Gadgets
-  - Privacy
-tags:
-  - alexa
-  - amazon echo
-  - google assistent
-  - google home
-  - stembediening
+  - privacy
 ---
 In onze smartphones zitten al jaren slimme assistenten waar we tegen kunnen praten. Die bijna niemand gebruikt. Omdat het raar is om op straat commando's te geven aan je telefoon, typen meestal sneller gaat en Siri &amp; Google Assistent regelmatig niet begrijpen wat je zegt.
 
