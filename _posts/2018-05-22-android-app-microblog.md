@@ -1,14 +1,13 @@
 ---
 id: 316
+title: Android app for Micro.blog
 date: 2018-05-22T09:19:18+00:00
 author: Roel
 layout: post
 guid: http://roel.micro.blog/2018/05/22/just-installed-dialog.html
-permalink: /316-2/
-linked_list_url:
-  - http://inessential.com/2018/04/08/why_i_use_micro_blog
+permalink: /android-app-microblog/
 categories:
-  - Zomaar
+  - internet
 ---
 Just installed [Dialog](http://dialog.micro.blog) on my Android phone. And it looks really good, [@mikedotfm](https://micro.blog/mikedotfm)! Recommended!  
 
