@@ -6,13 +6,10 @@ author: Roel
 layout: post
 guid: http://roel.micro.blog/2018/05/28/photographing-for-kids.html
 permalink: /photographing-for-kids-festival-wageningen/
-linked_list_url:
-  - http://inessential.com/2018/04/08/why_i_use_micro_blog
 categories:
-  - Zomaar
+  - photography
 ---
 
 <a href="http://roel.micro.blog/uploads/2018/059087af2a.jpg"><img src="http://roel.micro.blog/uploads/2018/059087af2a.jpg" width="400" height="600" style="display: inline-block; max-height: 200px; width: auto; padding: 1px;" class="sunlit_image" /></a><a href="http://roel.micro.blog/uploads/2018/24b9e09da5.jpg"><img src="http://roel.micro.blog/uploads/2018/24b9e09da5.jpg" width="600" height="400" style="display: inline-block; max-height: 200px; width: auto; padding: 1px;" class="sunlit_image" /></a><a href="http://roel.micro.blog/uploads/2018/221bb63523.jpg"><img src="http://roel.micro.blog/uploads/2018/221bb63523.jpg" width="600" height="400" style="display: inline-block; max-height: 200px; width: auto; padding: 1px;" class="sunlit_image" /></a><a href="http://roel.micro.blog/uploads/2018/2ec84ae0bb.jpg"><img src="http://roel.micro.blog/uploads/2018/2ec84ae0bb.jpg" width="600" height="400" style="display: inline-block; max-height: 200px; width: auto; padding: 1px;" class="sunlit_image" /></a><a href="http://roel.micro.blog/uploads/2018/05a20d4fb3.jpg"><img src="http://roel.micro.blog/uploads/2018/05a20d4fb3.jpg" width="400" height="600" style="display: inline-block; max-height: 200px; width: auto; padding: 1px;" class="sunlit_image" /></a><a href="http://roel.micro.blog/uploads/2018/c29776393d.jpg"><img src="http://roel.micro.blog/uploads/2018/c29776393d.jpg" width="600" height="400" style="display: inline-block; max-height: 200px; width: auto; padding: 1px;" class="sunlit_image" /></a><a href="http://roel.micro.blog/uploads/2018/0b85cf2e3c.jpg"><img src="http://roel.micro.blog/uploads/2018/0b85cf2e3c.jpg" width="600" height="400" style="display: inline-block; max-height: 200px; width: auto; padding: 1px;" class="sunlit_image" /></a>
 
 <p>I spent my Saturday helping out at the Kids Festival Wageningen. That included shooting photographs for the website and social media. </p><p>Like last year, it was a great day! 📷😎</p>
-
