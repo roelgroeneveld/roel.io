@@ -4,7 +4,6 @@ title: Photographing for Kids Festival Wageningen
 date: 2018-05-28T08:48:34+00:00
 author: Roel
 layout: post
-guid: http://roel.micro.blog/2018/05/28/photographing-for-kids.html
 permalink: /photographing-for-kids-festival-wageningen/
 categories:
   - photography
