@@ -71,7 +71,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 3.8.3)
   jekyll-default-layout
-  jekyll-feed (~> 0.6)
+  jekyll-feed
   jekyll-optional-front-matter
   jekyll-titles-from-headings
   tale
