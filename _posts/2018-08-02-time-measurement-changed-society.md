@@ -4,7 +4,6 @@ title: How Time Measurement Changed Society
 date: 2018-08-02T18:03:09+00:00
 author: Roel
 layout: post
-guid: https://roel.io/?p=362
 permalink: /time-measurement-society/
 categories:
   - culture

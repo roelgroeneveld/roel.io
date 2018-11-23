@@ -4,7 +4,6 @@ title: Fantastic Story
 date: 2018-08-05T16:33:52+00:00
 author: Roel
 layout: post
-guid: https://roel.io/?p=364
 permalink: /fantastic-story/
 categories:
   - news
