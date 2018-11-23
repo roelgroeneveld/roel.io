@@ -6,7 +6,7 @@ author: Roel
 layout: post
 permalink: /digitale-transformatie-organisatie-mensenwerk/
 categories:
-  - culture
+  - digital-transformation
 ---
 Het digitaal transformeren van een organisatie botst en schuurt, maar kan hele mooie dingen opleveren. Bij Mediavilla Arnhem vertelde Rogier Schmit (Directeur Digitaal bij T-Mobile) boeiend over hoe de digitale transformatie van zijn organisatie de afgelopen jaren verliep.
 
