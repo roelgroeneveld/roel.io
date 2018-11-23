@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Digitale transformatie bij T-Mobile: puur mensenwerk"
-date:   2018-09-12 09:51:27 +0200
+date:   2017-03-30 09:51:27 +0200
 author: Roel
 layout: post
 permalink: /digitale-transformatie-organisatie-mensenwerk/
@@ -16,7 +16,7 @@ Na een snel bezoek aan de theoretische basis (het werk van Andrew McAfee, Leadin
 
 Om in de veranderende economie succesvol te zijn moeten bestaande organisaties zich flink aanpassen. En daarbij zijn volgens Rogier 6 punten belangrijk:
 
-![Slide uit de presentatie van Rogier Schmit over digitale transformatie](/assets/succes-digitale-transformatie-organisaties-rogier-schmit.jpg){:class="img-responsive"} 
+![Slide uit de presentatie van Rogier Schmit over digitale transformatie](/assets/succes-digitale-transformatie-organisaties-rogier-schmit.jpg){:class="img-responsive"}
 
 
 1. Een aansprekend Massive Transformative Purpose (MTP) met gedeeld bewustzijn en strategie gericht op collectief succes
