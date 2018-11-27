@@ -1,5 +1,4 @@
 ---
-id: 362
 title: Technology for Good
 date: 2018-11-21T22:15:09+00:00
 author: Roel
@@ -13,7 +12,7 @@ Als sociaal werker leerde Wilneida Negron dat ze kwetsbare mensen kon helpen doo
 > when applied in ways that serves the public interest – like helping to connect vulnerable communities to vital information and resources, and building movements – technology could be one of those bridges.
 
 ## Technologie als brug
-Steeds meer mensen zich realiseren dat onze moderne technologie, van smartphone tot het surveillance-kapitalisme van Facebook en Google, veel negatieve effecten heeft. Maar er zijn dus lichtpuntjes. [Technology for Good](https://www.fastcompany.com/90270299/want-to-build-tech-for-good-understand-peoples-needs-first), zeg maar. Die dit soort problemen kunnen helpen oplossen:
+Steeds meer mensen realiseren zich dat onze moderne technologie, van smartphone tot het surveillance-kapitalisme van Facebook en Google, veel negatieve effecten heeft. Maar er zijn dus lichtpuntjes. [Technology for Good](https://www.fastcompany.com/90270299/want-to-build-tech-for-good-understand-peoples-needs-first), zeg maar. Die dit soort problemen kunnen helpen oplossen:
 
 > [a] loophole in Facebook’s API allowed law enforcement to monitor the social media accounts of young men of color I counseled after they were released from detention, and without their knowledge. (After pressure from advocates, Facebook fixed this glaring privacy problem in 2016.) And how the low-income families I was assisting, already dealing with limited broadband access, were plagued by online ads for predatory loans whenever they tried to search for information online. For these youth of color and low-income families, their experience of technology and the internet was already being shaped by their race, gender, and socioeconomic backgrounds.
 
