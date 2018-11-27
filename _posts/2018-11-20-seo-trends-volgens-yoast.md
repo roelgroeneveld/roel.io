@@ -1,6 +1,6 @@
 ---
 title: SEO trends volgens Yoast
-date: 2018-11-20T22:23:09+00:00
+date: 2018-11-22T21:02:06+00:00
 author: Roel
 layout: post
 permalink: /seo-trends-volgens-yoast/
@@ -34,6 +34,6 @@ Alles wat hierboven staat. Maar in ieder geval:
 2. De structuur van je site en content en kwaliteit van je belangrijkste pagina's evalueren.
 3. Je site sneller en technisch perfect maken en geschikt maken voor het gebruik van Schema.
 
-Voor ervaren SEO professionals vast geen nieuws. Maar voor de grote groep SEO-geïnteresseerden die er niet full-time mee bezig zijn een nuttig webinar. je kunt het hieronder terugkijken: 
+Voor ervaren SEO professionals vast geen nieuws. Maar voor de grote groep SEO-geïnteresseerden die er niet full-time mee bezig zijn een nuttig webinar. je kunt het hieronder terugkijken:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gbJuCoyRjvU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
