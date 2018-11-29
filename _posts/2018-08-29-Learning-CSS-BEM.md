@@ -4,7 +4,6 @@ title: Learning about CSS BEM
 date: 2018-08-29T16:11:53+00:00
 author: Roel
 layout: post
-guid: https://roel.io/?p=366
 permalink: /learning-css-bem/
 categories:
   - front-end
